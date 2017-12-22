@@ -9,7 +9,7 @@ read -p "Your mysql password: " mysql_pass
 read -p "Your mysql database name: " database
 
 path_to_located="/home/$username/"
-path_to_downloaded="/home/greg/Downloads/rakadiko/"
+path_to_downloaded="/home/greg/Downloads/backup/"
 
 file_name="backup_$(date +"%d-%m-%y").sql"
 

@@ -4,7 +4,7 @@ Why you need this?
 
 * simplify process
 * before push major changes
-* you code it's under git and you have to work only database backup
+* your code is under git and you need something for database backup
 
 You need before run this script install sshpass
 For Ubuntu:

@@ -12,7 +12,7 @@ For Ubuntu:
 sudo apt-get install sshpass
 ```
 
-Download script and give it execute permissions
+Download script and give it executable permissions
 ```
 sudo chmod a+x backup.sh
 ```
